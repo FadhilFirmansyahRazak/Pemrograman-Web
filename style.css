@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #baf2ef;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.spot {
+    width: 30%;
+    margin-bottom: 30px;
+}
+
+.spot img {
+    width: 100%;
+    height: auto;
+}
+
+.spot h2 {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.spot p {
+    font-size: 16px;
+}
+
+footer {
+    background-color: #3EB489;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+p {
+    text-indent: 3ch;
+}
