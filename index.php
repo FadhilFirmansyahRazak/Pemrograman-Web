@@ -12,9 +12,6 @@ $query = mysqli_query($koneksi,"SELECT * FROM user");
 
 ?>
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
